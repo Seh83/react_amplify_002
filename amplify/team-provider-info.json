@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-hsport-dev-121156-authRole",
+      "UnauthRoleArn": "arn:aws:iam::931682374458:role/amplify-hsport-dev-121156-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::931682374458:role/amplify-hsport-dev-121156-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-hsport-dev-121156-deployment",
+      "UnauthRoleName": "amplify-hsport-dev-121156-unauthRole",
+      "StackName": "amplify-hsport-dev-121156",
+      "StackId": "arn:aws:cloudformation:us-east-1:931682374458:stack/amplify-hsport-dev-121156/c1b42700-fd7a-11ed-8c02-12b037919ac1",
+      "AmplifyAppId": "d3iquenihen1sp"
+    }
+  }
+}
